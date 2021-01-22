@@ -1,5 +1,5 @@
 # Data-mining-in-IRIS-dataset
-Two Clustering models were used in order to obtain best accuracy.
+Clustering model was used in order to obtain best accuracy.
 
 1.	K-Means Clustering:-
 
